@@ -1,0 +1,14 @@
+# Ignore from everything
+*
+# Excepts this files
+!.gitignore
+!README.md
+!*.py
+!*.sh
+!*.bash
+!*.yml
+!*.ipynb
+!*.gs
+
+!*/
+
